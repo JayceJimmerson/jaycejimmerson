@@ -12,9 +12,6 @@ messy real-world data to clean, useful outputs.
 - **Currently learning:** Advanced SQL, Python data engineering
 
 ## 📌 Featured Projects
-- 🌤️ [Weather Data Pipeline](https://github.com/JayceJimmerson/Aurora) - End-to-end ETL pipeline 
-  pulling live weather data via API, transformed with pandas, stored 
-  in SQLite, visualized in Power BI
 - 🤖 IT Knowledge Assistant - Copilot Studio agent grounded on 
   SharePoint docs, deployed for internal IT support
 
