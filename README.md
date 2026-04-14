@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Jayce 👋
 
-<!--
-**JayceJimmerson/jaycejimmerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Specialist based in Phoenix, AZ with a focus on data pipelines, 
+AI tooling, and automation. I enjoy building things that connect 
+messy real-world data to clean, useful outputs.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Data:** SQL, Python (pandas), Power BI, SQLite
+- **AI & Automation:** Microsoft Copilot Studio, Power Automate, 
+  Agentic AI workflows
+- **IT:** Microsoft 365, SharePoint, AV Systems, Network Support
+- **Currently learning:** Advanced SQL, Python data engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🌤️ [Weather Data Pipeline](https://github.com/JayceJimmerson/Aurora) - End-to-end ETL pipeline 
+  pulling live weather data via API, transformed with pandas, stored 
+  in SQLite, visualized in Power BI
+- 🤖 IT Knowledge Assistant - Copilot Studio agent grounded on 
+  SharePoint docs, deployed for internal IT support
+
+## 📫 Let's connect
+[LinkedIn](www.linkedin.com/in/jayce-jimmerson-9b643a233)
