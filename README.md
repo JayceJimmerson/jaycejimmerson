@@ -11,6 +11,8 @@ messy real-world data to clean, useful outputs.
 - **IT:** Microsoft 365, SharePoint, AV Systems, Network Support
 - **Currently learning:** Advanced SQL, Python data engineering
 
+![Jayce's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayceJimmerson&show_icons=true&theme=dark)
+
 ## 📌 Featured Projects
 - 🌤️ [Weather Data Pipeline](https://github.com/JayceJimmerson/Aurora) - End-to-end ETL pipeline 
   pulling live weather data via API, transformed with pandas, stored 
