@@ -12,8 +12,8 @@ messy real-world data to clean, useful outputs.
 - **Currently learning:** Advanced SQL, Python data engineering
 
 ## 📌 Featured Projects
-- 🤖 IT Knowledge Assistant - Copilot Studio agent grounded on 
-  SharePoint docs, deployed for internal IT support
+- 🤖 IT Knowledge Assistant - Copilot Studio agent grounded on internal SharePoint and OneDrive documentation
+- 🎫 Ticket Analyzer - AI-powered ticket triage system using Power Automate and AI Builder, delivering structured recommendations via Microsoft Teams
 
 ## 📫 Let's connect
 [LinkedIn](www.linkedin.com/in/jayce-jimmerson-9b643a233)
